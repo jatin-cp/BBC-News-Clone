@@ -1,0 +1,322 @@
+/*section7 css code starts from here*/
+
+.iHgRTU {
+    display: grid;
+    width: 100%;
+    background-color: #ffffff;
+    margin-block: 48px;
+}
+
+/*!sc*/
+
+.iHgRTU:first-of-type {
+    margin-top: 24px;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .iHgRTU {
+        margin-block: 32px;
+    }
+}
+
+/*!sc*/
+
+.iHgRTU:last-of-type {
+    margin-bottom: 120px;
+}
+
+/*!sc*/
+
+.iHgRTU:first-of-type hr {
+    display: none;
+}
+
+.eCHHe {
+    max-width: 1280px;
+    width: 100%;
+}
+
+/*!sc*/
+
+@media screen and (max-width:8192px) {
+    .eCHHe {
+        margin: 0 auto;
+    }
+}
+
+.eFiHwN {
+    margin: 0 16px;
+    border-width: 0;
+    height: 2px;
+    background-color: #3a3c3e;
+}
+
+.kqCJyj {
+    padding: 0 16px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 24px;
+    margin-top: 12px;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .kqCJyj {
+        margin-bottom: 16px;
+        margin-top: 8px;
+    }
+}
+
+.bxCoZJ {
+    color: #202224;
+    font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-letter-spacing: 0px;
+    -moz-letter-spacing: 0px;
+    -ms-letter-spacing: 0px;
+    letter-spacing: 0px;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .bxCoZJ {
+        font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: none;
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-letter-spacing: 0px;
+        -moz-letter-spacing: 0px;
+        -ms-letter-spacing: 0px;
+        letter-spacing: 0px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:399px) {
+    .bxCoZJ {
+        font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: none;
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-letter-spacing: 0px;
+        -moz-letter-spacing: 0px;
+        -ms-letter-spacing: 0px;
+        letter-spacing: 0px;
+    }
+}
+
+.iupdnq {
+    display: grid;
+    box-sizing: border-box;
+    grid-gap: 16px;
+    grid-auto-flow: column;
+}
+
+/*!sc*/
+
+@media screen and (max-width:8192px) {
+    .iupdnq {
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:1279px) {
+    .iupdnq {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:1007px) {
+    .iupdnq {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:767px) {
+    .iupdnq {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .iupdnq {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(10, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+/*!sc*/
+
+@media screen and (max-width:399px) {
+    .iupdnq {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(10, 1fr);
+        margin: 16px 16px;
+    }
+}
+
+.gILusN {
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    cursor: pointer;
+    color: unset;
+}
+
+.claiQG {
+    grid-template-columns: 38px 1fr;
+    grid-gap: 8px;
+    display: grid;
+}
+
+.fDznqs {
+    color: #8a8c8e;
+    font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 34px;
+    -webkit-letter-spacing: -0.64px;
+    -moz-letter-spacing: -0.64px;
+    -ms-letter-spacing: -0.64px;
+    letter-spacing: -0.64px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 34px;
+    width: 38px;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .fDznqs {
+        min-height: 34px;
+        height: auto;
+    }
+}
+
+.iqyyKX {
+    width: 100%;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .iqyyKX {
+        min-height: 32px;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+}
+
+/*!sc*/
+
+.iqyyKX:hover {
+    -webkit-text-decoration: underline;
+    text-decoration: underline;
+}
+
+.kZtaAl {
+    width: 100%;
+    margin-right: 0;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .kZtaAl {
+        margin-right: 8px;
+    }
+}
+
+.gJvjEE {
+    color: #202224;
+    font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-letter-spacing: -0.32px;
+    -moz-letter-spacing: -0.32px;
+    -ms-letter-spacing: -0.32px;
+    letter-spacing: -0.32px;
+}
+
+/*!sc*/
+
+@media screen and (max-width:599px) {
+    .gJvjEE {
+        font-family: BBC Reith Serif, Helvetica, Arial, sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: none;
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-letter-spacing: -0.32px;
+        -moz-letter-spacing: -0.32px;
+        -ms-letter-spacing: -0.32px;
+        letter-spacing: -0.32px;
+    }
+}
+/*section7 css code ends here*/
